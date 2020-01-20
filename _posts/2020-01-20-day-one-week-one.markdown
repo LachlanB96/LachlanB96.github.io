@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day One - Week One!"
+title:  "Day One Week One!"
 date:   2020-01-20 12:58:29
 categories: test
 ---
@@ -10,7 +10,6 @@ def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Bro')
-#=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll].
